@@ -7,6 +7,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rievanaverilllio&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
+<a href="https://www.google.com/search?q=pacman" target="_blank">
+  <img src="https://www.freepnglogos.com/uploads/pacman-png/pacman-mspacman-sprite-clip-art-at-clker-17.png" width="100" alt="Play Pacman" />
+</a>
 ---
 [![](https://visitcount.itsvg.in/api?id=rievanaverilllio&icon=3&color=1)](https://visitcount.itsvg.in)
 
