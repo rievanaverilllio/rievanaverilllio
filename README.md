@@ -7,9 +7,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rievanaverilllio&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rievanaverilllio&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=rievanaverilllio&icon=3&color=1)](https://visitcount.itsvg.in)
 
